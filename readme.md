@@ -1,30 +1,24 @@
 This is Page!
-
 这里琪琪！
 
 I'm not familiar with GitHub yet.
-
 我还不太熟悉Github。
 
-
+This repository contains 3 contents below:
 本存档包含三个部分：
 
-This repository contains 3 contents below:
+-readme.md
+>说明文档
+>Introduction document
 
+-PageDiary.md
+>日记，用于随手记录
+>Diary for random recording
 
--readme.md		说明文档
+-QuadPlanner.md
+>四元规划器，通过区分重要和紧急程度安排任务
+>A to-do list based on the importancy and emergency of tasks
 
-			Introduction document
-
--PageDiary.md		日记，用于随手记录
-
-			Diary for random recording
-
--QuadPlanner.md		四元规划器，通过区分重要和紧急程度安排任务
-
-			A to-do list based on the importancy and emergency of tasks
-
--PageLogic.md		琪琪计划在这里尽可能详细的阐述自己的观念
-
-			Page wants to explain his/her philosophy here
-
+-PageLogic.md		
+>琪琪计划在这里尽可能详细的阐述自己的观念
+>Page wants to explain his/her philosophy here
