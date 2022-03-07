@@ -1,24 +1,6 @@
 This is Page!
-ÕâÀïç÷ç÷£¡
+è¿™é‡Œçªçªï¼
 
 I'm not familiar with GitHub yet.
-ÎÒ»¹²»Ì«ÊìÏ¤Github¡£
+æˆ‘è¿˜ä¸å¤ªç†Ÿæ‚‰Githubã€‚
 
-This repository contains 3 contents below:
-±¾´æµµ°üº¬Èý¸ö²¿·Ö£º
-
--readme.md
->ËµÃ÷ÎÄµµ
->Introduction document
-
--PageDiary.md
->ÈÕ¼Ç£¬ÓÃÓÚËæÊÖ¼ÇÂ¼
->Diary for random recording
-
--QuadPlanner.md
->ËÄÔª¹æ»®Æ÷£¬Í¨¹ýÇø·ÖÖØÒªºÍ½ô¼±³Ì¶È°²ÅÅÈÎÎñ
->A to-do list based on the importancy and emergency of tasks
-
--PageLogic.md		
->ç÷ç÷¼Æ»®ÔÚÕâÀï¾¡¿ÉÄÜÏêÏ¸µÄ²ûÊö×Ô¼ºµÄ¹ÛÄî
->Page wants to explain his/her philosophy here
